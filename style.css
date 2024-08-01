@@ -13,3 +13,19 @@
     text-align: center;
     width: 100%;
 }
+.penjelasan{
+    position: fixed;
+    top: 100 ;
+    color: whitesmoke;
+    text-align: center;
+    width: 100%;
+    animation: bounce duration timing-function delay iteration-count direction fill-mode;
+}
+.penjelasan2{
+    position: fixed;
+    top: 100 ;
+    color: whitesmoke;
+    text-align: center;
+    width: 100%;
+    animation: bounce duration timing-function delay iteration-count direction fill-mode;
+}
