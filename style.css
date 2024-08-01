@@ -1,0 +1,15 @@
+#videoBackground{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}
+.content{
+    position: fixed;
+    top: 0;
+    background-color: grey;
+    color: whitesmoke;
+    text-align: center;
+    width: 100%;
+}
