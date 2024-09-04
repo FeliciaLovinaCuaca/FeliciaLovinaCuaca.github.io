@@ -322,7 +322,7 @@ forward(30)
 right(-160)
 forward(63)
 
-#tulisan Bhineka Tunggal Ika
+#tulisan Bhinek Tunggal Ika
 penup()
 goto(-35,-188)
 pendown()
@@ -408,4 +408,30 @@ forward(12)
 left(90)
 forward(12)
 
+#garis ekor 1
+penup()
+goto(-70,-230)
+pendown()
+forward(50)
+
+#garis ekor 2
+penup()
+goto(-35,-245)
+pendown()
+left(30)
+forward(50)
+
+#garis ekor 3
+penup()
+goto(-13,-250)
+left(2)
+pendown()
+forward(50)
+
+#garis ekor 4
+penup()
+goto(5,-250)
+left(5)
+pendown()
+forward(53)
 mainloop()
